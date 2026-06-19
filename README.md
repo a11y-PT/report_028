@@ -28,3 +28,6 @@ Consulte aqui a última atualização: [Relatório do {{ page.website }}](report
   </ul>
 </details>
 
+## Declaração de Acessibilidade analisada
+
+- [https://www.cm-guimaraes.pt/ficha-tecnica/declaracao-de-acessibilidade-e-usabilidade](https://www.cm-guimaraes.pt/ficha-tecnica/declaracao-de-acessibilidade-e-usabilidade)
