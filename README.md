@@ -1,11 +1,12 @@
 ---
-website: "PRR - Câmara Municipal de Guimarães (sítio Web institucional)"          # Entre as aspas escreve o nome do website
+website: "Câmara Municipal de Guimarães (sítio Web institucional)"          # Entre as aspas escreve o nome do website
 date: "19/06/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-guimaraes.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.cm-guimaraes.pt/ficha-tecnica/declaracao-de-acessibilidade-e-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement_date: "26/12/2025"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "Câmara Municipal de Guimarães"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
 status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
